@@ -10,16 +10,6 @@ Nesse desafio, você deve criar uma aplicação para continuar treinando o que v
 
 Essa será uma aplicação para armazenar transações financeiras de entrada e saída, que deve permitir o cadastro e a listagem dessas transações.
 
-### Template da aplicação
-
-Para te ajudar nesse desafio, criamos para você um modelo que você deve utilizar como um template do Github.
-
-O template está disponível na seguinte url: **[Acessar Template](https://github.com/Rocketseat/gostack-template-fundamentos-node)**
-
-**Dica**: Caso não saiba utilizar repositórios do Github como template, temos um guia em **[nosso FAQ](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/faq-desafios).**
-
-Agora navegue até a pasta criada e abra no Visual Studio Code, lembre-se de executar o comando `yarn` no seu terminal para instalar todas as dependências.
-
 ### Rotas da aplicação
 
 Agora que você já está com o template clonado, e pronto para continuar, você deve verificar os arquivos da pasta `src` e completar onde não possui código com o código para atingir os objetivos de cada rota.
